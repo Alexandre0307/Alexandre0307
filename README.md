@@ -6,12 +6,13 @@
 
 Here are some ideas to get you started:
 
+- Meu nome é Alexandre..
 - 🔭 Estou trabalhando com a plataforma Alura.
 - 🌱 No momento aprendendendo programação.
 - 👯 Estou procurando colaborar com as aulas e aprender mais.
 - 🤔 Procurando aprender um pouco mais sobre linguagens Javascript/Scratch
 - 💬 Me pergunte sobre como lhe ajudar com códigos
 - 📫 Entrar em contato comigo: s.alexandre03@escola.pr.gov.br
-- 😄 Pronouns: him/his
+- 😄 Pronouns: ele/dele
 - ⚡ Utilizando este espaço para compartilhar os meus projetos.
 
