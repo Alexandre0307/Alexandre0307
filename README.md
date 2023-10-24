@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 Estou procurando colaborar com as aulas e aprender mais.
 - 🤔 Procurando aprender um pouco mais sobre linguagens Javascript/Scratch
 - 💬 Me pergunte sobre como lhe ajudar com códigos
-- 📫 Entrar em contato comigo: s.alexande03@escola.pr.gov.br
+- 📫 Entrar em contato comigo: s.alexandre03@escola.pr.gov.br
 - 😄 Pronouns: him/his
 - ⚡ Utilizando este espaço para compartilhar os meus projetos.
 
