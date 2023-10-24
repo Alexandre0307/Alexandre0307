@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 - ⚡ Utilizando este espaço para compartilhar os meus projetos.
 
+![](https://media.tenor.com/u3-J8iH9gE0AAAAC/coffee-good-morning.gif)
